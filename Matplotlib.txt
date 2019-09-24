@@ -1,0 +1,4 @@
+Изменить ширину и высоту графиков Matplotlib
+
+%pylab inline
+pylab.rcParams['figure.figsize'] = (12, 8)
